@@ -1,6 +1,6 @@
 ### Hi there 👋 Introducing myself,
 
-<img width="2000" alt="Coding" src="https://github.com/NehamolVarkey/NehamolVarkey/blob/main/bg_profile.png">
+<img width="2000" alt="Coding" src="https://github.com/anjaly411/anjaly411/blob/main/Slide1.jpg">
 
 
 
@@ -25,7 +25,7 @@ I'm Anjaly Vijayan, a passionate Data Scientist with an array of skills in SQL, 
 
 <h3>🕸️Let's Connect</h3>
 <ul>
- <li><a href="https://www.linkedin.com/in/anjaly-vijayan-536648214">Linkedln | Nehamol Varkey</a><br></li>
+ <li><a href="https://www.linkedin.com/in/anjaly-vijayan-536648214">Linkedln | Anjaly Vijayan</a><br></li>
 </ul>
 <!--
 **Mariyajoseph24/Mariyajoseph24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
