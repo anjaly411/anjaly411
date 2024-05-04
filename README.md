@@ -18,7 +18,7 @@ I'm Anjaly Vijayan, a passionate Data Scientist with an array of skills in SQL, 
 <li>Database: MySQL</li>
 <li>Visualization: Power BI, Tableau,Excel</li>
 <li>Spreadsheet: MS Excel</li></ul>
-<li>Analytical Libraries:Numpy,Pandas,Matplotlib,Seaborn,Scikit-Learn</li></ul>
+<li>Analytical Libraries:Numpy,Pandas,Matplotlib,Seaborn,ScikitLearn</li></ul>
 
 
 
