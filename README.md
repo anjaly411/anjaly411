@@ -14,10 +14,13 @@ I'm Anjaly Vijayan, a passionate Data Scientist with an array of skills in SQL, 
 
 <h3>⚙️Skills</h3>
 <ul>
-<li>Language: SQL, Python</li>
+<li>Language:  Python,R,Java</li>
 <li>Database: MySQL</li>
-<li>Visualization: Power BI, Tableau</li>
+<li>Visualization: Power BI, Tableau,Excel</li>
 <li>Spreadsheet: MS Excel</li></ul>
+<li>Analytical Libraries:Numpy,Pandas ,Matplotlib ,Seaborn ,Scikit-Learn</li></ul>
+
+
 
 <h3>🖇️Projects</h3>
 <ul>
