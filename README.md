@@ -10,7 +10,8 @@ I'm Anjaly Vijayan, a passionate Data Scientist with an array of skills in SQL, 
 <li>Python : Utilizes Python for data wrangling and advanced analytics.</li>
 <li>Excel : Generates reports and performs data analysis using MS Excel.</li>
 <li>Tableau and Power BI : Develops interactive dashboards using Tableau and Power BI.</li>
-<li>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical analysis.</li></ul>
+<li>R Explorer: Setting foot on a data exploration journey with basic knowledge in R for statistical
+ analysis.</li></ul>
 
 <h3>⚙️Skills</h3>
 <ul>
@@ -18,7 +19,7 @@ I'm Anjaly Vijayan, a passionate Data Scientist with an array of skills in SQL, 
 <li>Database: MySQL</li>
 <li>Visualization: Power BI, Tableau,Excel</li>
 <li>Spreadsheet: MS Excel</li></ul>
-<li>AnalyticalLibraries: Numpy,Pandas,Matplotlib,Seaborn,ScikitLearn</li></ul>
+
 
 
 
